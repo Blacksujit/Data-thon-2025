@@ -17,7 +17,6 @@ The challenge wasn’t just building a model — it was about handling data effi
 ## Folder structure:
 
 ``
-
 ├── datasets/
 │   ├── train.csv
 │   ├── test.csv
@@ -32,12 +31,8 @@ The challenge wasn’t just building a model — it was about handling data effi
 │   └── submission.csv
 ├── requirements.txt
 └── README.md
-
 ``
-
-## Modal Arcitecture Diagram:
-
-![Model Arcitecture](image.png)
+ 
 
 ## 🚀 Our Solution
 
@@ -45,7 +40,7 @@ We built a machine learning pipeline that tackled the problem through multiple i
 
 **Model Architecture & Approach:**
 
-
+![Model Arcitecture](image.png)
 
 **Initial Experiments:**
 
