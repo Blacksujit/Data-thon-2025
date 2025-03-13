@@ -31,6 +31,7 @@ The challenge wasn’t just building a model — it was about handling data effi
 │   └── submission.csv
 ├── requirements.txt
 └── README.md
+
 ```
  
 
@@ -87,17 +88,17 @@ Find the datasets under Datasets folder
 
 **Clone the repository:**
 
-``git clone https://github.com/Blacksujit/datathon-2025.git``
+```git clone https://github.com/Blacksujit/datathon-2025.git```
 
-``python -m venv venv``
+```python -m venv venv```
 
-``source venv/bin/activate``
+```source venv/bin/activate```
 
-``pip install -r requirements.txt``
+```pip install -r requirements.txt```
 
 **Run the training script:**
 
-``cd Code Notebooks``
+```cd Code Notebooks```
 
 run/[generate_predictions.py](notebook_1.ipynb/working-Submission.ipynb)
 
