@@ -16,7 +16,8 @@ The challenge wasn’t just building a model — it was about handling data effi
 
 ## Folder structure:
 
-`
+``
+
 ├── datasets/
 │   ├── train.csv
 │   ├── test.csv
@@ -31,7 +32,8 @@ The challenge wasn’t just building a model — it was about handling data effi
 │   └── submission.csv
 ├── requirements.txt
 └── README.md
-`
+
+``
 
 ## Modal Arcitecture Diagram:
 
