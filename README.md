@@ -84,21 +84,37 @@ Despite facing initial setbacks — including a team member in the hospital — 
 ## Datasets:
 
 Find the datasets under Datasets folder 
+
 ## ⚡ Setup Instructions
 
 **Clone the repository:**
 
-```git clone https://github.com/Blacksujit/datathon-2025.git```
+```
+git clone https://github.com/Blacksujit/datathon-2025.git
 
-```python -m venv venv```
+```
 
-```source venv/bin/activate```
+```
+python -m venv venv
 
-```pip install -r requirements.txt```
+```
+
+```
+source venv/bin/activate
+
+```
+
+```
+pip install -r requirements.txt
+
+```
 
 **Run the training script:**
 
-```cd Code Notebooks```
+```
+cd Code Notebooks
+
+```
 
 run/[generate_predictions.py](notebook_1.ipynb/working-Submission.ipynb)
 
