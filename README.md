@@ -14,6 +14,24 @@ Maximize accuracy while adhering to constraints like model training time and ker
 
 The challenge wasn’t just building a model — it was about handling data efficiently, iterating rapidly, and overcoming system limitations.
 
+## Folder structure:
+
+`
+├── datasets/
+│   ├── train.csv
+│   ├── test.csv
+│   └── labels.csv
+├── notebooks/
+│   ├── datathonr2starter.ipynb
+│   ├── model_training.ipynb
+│   └── workingnotebook.ipynb
+├── models/
+│   └── final_model.pkl
+├── Submissions/
+│   └── submission.csv
+├── requirements.txt
+└── README.md
+`
 
 ## Modal Arcitecture Diagram:
 
