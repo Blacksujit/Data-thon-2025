@@ -79,7 +79,7 @@ Despite facing initial setbacks — including a team member in the hospital — 
 
 -> **TF-IDF and Logistic Regression** for feature extraction and classification
 
--> Jupyter Notebooks for experimentation anb [Google colab](https://colab.research.google.com/) and [Kaggle Environments](https://www.kaggle.com/code) for actual model developement and testing 
+-> Jupyter Notebooks for experimentation  [Google colab](https://colab.research.google.com/) and [Kaggle Environments](https://www.kaggle.com/code) for actual model developement and testing 
 
 ## Datasets:
 
